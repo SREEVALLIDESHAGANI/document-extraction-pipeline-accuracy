@@ -1,0 +1,129 @@
+{
+  "routing_summary": {
+    "AUTO_ACCEPT": 54,
+    "HUMAN_REVIEW": 36,
+    "REJECT": 10
+  },
+  "field_level_accuracy": {
+    "invoice_number": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 93.3,
+      "mean_confidence": 0.909,
+      "calibration_gap": -0.024
+    },
+    "invoice_date": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 93.3,
+      "mean_confidence": 0.911,
+      "calibration_gap": -0.022
+    },
+    "vendor_name": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 97.8,
+      "mean_confidence": 0.901,
+      "calibration_gap": -0.077
+    },
+    "tax_id": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 93.3,
+      "mean_confidence": 0.91,
+      "calibration_gap": -0.023
+    },
+    "subtotal": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 84.4,
+      "mean_confidence": 0.909,
+      "calibration_gap": 0.065
+    },
+    "tax_amount": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 88.9,
+      "mean_confidence": 0.906,
+      "calibration_gap": 0.017
+    },
+    "total_amount": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 88.9,
+      "mean_confidence": 0.906,
+      "calibration_gap": 0.017
+    },
+    "line_items_count": {
+      "evaluated_samples": 45,
+      "exact_match_accuracy_pct": 71.1,
+      "mean_confidence": 0.907,
+      "calibration_gap": 0.196
+    },
+    "claim_id": {
+      "evaluated_samples": 25,
+      "exact_match_accuracy_pct": 96.0,
+      "mean_confidence": 0.891,
+      "calibration_gap": -0.069
+    },
+    "patient_name": {
+      "evaluated_samples": 25,
+      "exact_match_accuracy_pct": 84.0,
+      "mean_confidence": 0.889,
+      "calibration_gap": 0.049
+    },
+    "policy_number": {
+      "evaluated_samples": 25,
+      "exact_match_accuracy_pct": 76.0,
+      "mean_confidence": 0.895,
+      "calibration_gap": 0.135
+    },
+    "incident_date": {
+      "evaluated_samples": 25,
+      "exact_match_accuracy_pct": 80.0,
+      "mean_confidence": 0.888,
+      "calibration_gap": 0.088
+    },
+    "diagnosis_code": {
+      "evaluated_samples": 25,
+      "exact_match_accuracy_pct": 88.0,
+      "mean_confidence": 0.887,
+      "calibration_gap": 0.007
+    },
+    "claimed_amount": {
+      "evaluated_samples": 25,
+      "exact_match_accuracy_pct": 84.0,
+      "mean_confidence": 0.897,
+      "calibration_gap": 0.057
+    },
+    "provider_name": {
+      "evaluated_samples": 25,
+      "exact_match_accuracy_pct": 88.0,
+      "mean_confidence": 0.89,
+      "calibration_gap": 0.01
+    },
+    "document_id": {
+      "evaluated_samples": 20,
+      "exact_match_accuracy_pct": 90.0,
+      "mean_confidence": 0.915,
+      "calibration_gap": 0.015
+    },
+    "full_name": {
+      "evaluated_samples": 20,
+      "exact_match_accuracy_pct": 95.0,
+      "mean_confidence": 0.92,
+      "calibration_gap": -0.03
+    },
+    "date_of_birth": {
+      "evaluated_samples": 20,
+      "exact_match_accuracy_pct": 90.0,
+      "mean_confidence": 0.907,
+      "calibration_gap": 0.007
+    },
+    "expiry_date": {
+      "evaluated_samples": 20,
+      "exact_match_accuracy_pct": 100.0,
+      "mean_confidence": 0.923,
+      "calibration_gap": -0.077
+    },
+    "country_code": {
+      "evaluated_samples": 20,
+      "exact_match_accuracy_pct": 95.0,
+      "mean_confidence": 0.918,
+      "calibration_gap": -0.032
+    }
+  }
+}

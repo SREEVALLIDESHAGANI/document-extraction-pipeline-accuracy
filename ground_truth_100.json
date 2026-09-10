@@ -1,0 +1,1612 @@
+[
+  {
+    "doc_id": "DOC-001",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1001",
+      "invoice_date": "2026-01-02",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8001",
+      "subtotal": 854.01,
+      "tax_amount": 85.4,
+      "total_amount": 939.41,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-002",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1002",
+      "invoice_date": "2026-01-03",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8002",
+      "subtotal": 1294.59,
+      "tax_amount": 129.46,
+      "total_amount": 1424.05,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-003",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1003",
+      "invoice_date": "2026-01-04",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8003",
+      "subtotal": 2843.77,
+      "tax_amount": 284.38,
+      "total_amount": 3128.15,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-004",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1004",
+      "invoice_date": "2026-01-05",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8004",
+      "subtotal": 3185.98,
+      "tax_amount": 318.6,
+      "total_amount": 3504.58,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-005",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1005",
+      "invoice_date": "2026-01-06",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8005",
+      "subtotal": 4011.15,
+      "tax_amount": 401.12,
+      "total_amount": 4412.27,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-006",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1006",
+      "invoice_date": "2026-01-07",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8006",
+      "subtotal": 4862.13,
+      "tax_amount": 486.21,
+      "total_amount": 5348.34,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-007",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1007",
+      "invoice_date": "2026-01-08",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8007",
+      "subtotal": 1559.79,
+      "tax_amount": 155.98,
+      "total_amount": 1715.77,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-008",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1008",
+      "invoice_date": "2026-01-09",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8008",
+      "subtotal": 1542.05,
+      "tax_amount": 154.21,
+      "total_amount": 1696.26,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-009",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1009",
+      "invoice_date": "2026-01-10",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8009",
+      "subtotal": 3158.88,
+      "tax_amount": 315.89,
+      "total_amount": 3474.77,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-010",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1010",
+      "invoice_date": "2026-01-11",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8010",
+      "subtotal": 3278.13,
+      "tax_amount": 327.81,
+      "total_amount": 3605.94,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-011",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1011",
+      "invoice_date": "2026-01-12",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8011",
+      "subtotal": 2285.85,
+      "tax_amount": 228.59,
+      "total_amount": 2514.44,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-012",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1012",
+      "invoice_date": "2026-01-13",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8012",
+      "subtotal": 2764.57,
+      "tax_amount": 276.46,
+      "total_amount": 3041.03,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-013",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1013",
+      "invoice_date": "2026-01-14",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8013",
+      "subtotal": 3786.11,
+      "tax_amount": 378.61,
+      "total_amount": 4164.72,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-014",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1014",
+      "invoice_date": "2026-01-15",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8014",
+      "subtotal": 298.04,
+      "tax_amount": 29.8,
+      "total_amount": 327.84,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-015",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1015",
+      "invoice_date": "2026-01-16",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8015",
+      "subtotal": 3142.76,
+      "tax_amount": 314.28,
+      "total_amount": 3457.04,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-016",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1016",
+      "invoice_date": "2026-01-17",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8016",
+      "subtotal": 2937.56,
+      "tax_amount": 293.76,
+      "total_amount": 3231.32,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-017",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1017",
+      "invoice_date": "2026-01-18",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8017",
+      "subtotal": 4677.5,
+      "tax_amount": 467.75,
+      "total_amount": 5145.25,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-018",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1018",
+      "invoice_date": "2026-01-19",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8018",
+      "subtotal": 4967.05,
+      "tax_amount": 496.71,
+      "total_amount": 5463.76,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-019",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1019",
+      "invoice_date": "2026-01-20",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8019",
+      "subtotal": 108.7,
+      "tax_amount": 10.87,
+      "total_amount": 119.57,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-020",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1020",
+      "invoice_date": "2026-01-21",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8020",
+      "subtotal": 3502.04,
+      "tax_amount": 350.2,
+      "total_amount": 3852.24,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-021",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1021",
+      "invoice_date": "2026-01-22",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8021",
+      "subtotal": 1531.68,
+      "tax_amount": 153.17,
+      "total_amount": 1684.85,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-022",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1022",
+      "invoice_date": "2026-01-23",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8022",
+      "subtotal": 1388.19,
+      "tax_amount": 138.82,
+      "total_amount": 1527.01,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-023",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1023",
+      "invoice_date": "2026-01-24",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8023",
+      "subtotal": 539.07,
+      "tax_amount": 53.91,
+      "total_amount": 592.98,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-024",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1024",
+      "invoice_date": "2026-01-25",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8024",
+      "subtotal": 3962.89,
+      "tax_amount": 396.29,
+      "total_amount": 4359.18,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-025",
+    "category": "INVOICE",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1025",
+      "invoice_date": "2026-01-26",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8025",
+      "subtotal": 2419.02,
+      "tax_amount": 241.9,
+      "total_amount": 2660.92,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-026",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1026",
+      "invoice_date": "2026-01-27",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8026",
+      "subtotal": 2548.76,
+      "tax_amount": 254.88,
+      "total_amount": 2803.64,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-027",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1027",
+      "invoice_date": "2026-01-28",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8027",
+      "subtotal": 2950.76,
+      "tax_amount": 295.08,
+      "total_amount": 3245.84,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-028",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1028",
+      "invoice_date": "2026-01-01",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8028",
+      "subtotal": 4731.84,
+      "tax_amount": 473.18,
+      "total_amount": 5205.02,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-029",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1029",
+      "invoice_date": "2026-01-02",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8029",
+      "subtotal": 2686.43,
+      "tax_amount": 268.64,
+      "total_amount": 2955.07,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-030",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1030",
+      "invoice_date": "2026-01-03",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8030",
+      "subtotal": 4806.56,
+      "tax_amount": 480.66,
+      "total_amount": 5287.22,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-031",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1031",
+      "invoice_date": "2026-01-04",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8031",
+      "subtotal": 541.05,
+      "tax_amount": 54.1,
+      "total_amount": 595.15,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-032",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1032",
+      "invoice_date": "2026-01-05",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8032",
+      "subtotal": 2570.78,
+      "tax_amount": 257.08,
+      "total_amount": 2827.86,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-033",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1033",
+      "invoice_date": "2026-01-06",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8033",
+      "subtotal": 3151.99,
+      "tax_amount": 315.2,
+      "total_amount": 3467.19,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-034",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1034",
+      "invoice_date": "2026-01-07",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8034",
+      "subtotal": 3782.42,
+      "tax_amount": 378.24,
+      "total_amount": 4160.66,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-035",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1035",
+      "invoice_date": "2026-01-08",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8035",
+      "subtotal": 2649.17,
+      "tax_amount": 264.92,
+      "total_amount": 2914.09,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-036",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1036",
+      "invoice_date": "2026-01-09",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8036",
+      "subtotal": 2277.17,
+      "tax_amount": 227.72,
+      "total_amount": 2504.89,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-037",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1037",
+      "invoice_date": "2026-01-10",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8037",
+      "subtotal": 457.03,
+      "tax_amount": 45.7,
+      "total_amount": 502.73,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-038",
+    "category": "INVOICE",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 180,
+    "blur_score": 0.22,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1038",
+      "invoice_date": "2026-01-11",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8038",
+      "subtotal": 3414.32,
+      "tax_amount": 341.43,
+      "total_amount": 3755.75,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-039",
+    "category": "INVOICE",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 150,
+    "blur_score": 0.35,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1039",
+      "invoice_date": "2026-01-12",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8039",
+      "subtotal": 1252.34,
+      "tax_amount": 125.23,
+      "total_amount": 1377.57,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-040",
+    "category": "INVOICE",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 150,
+    "blur_score": 0.35,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1040",
+      "invoice_date": "2026-01-13",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8040",
+      "subtotal": 3046.48,
+      "tax_amount": 304.65,
+      "total_amount": 3351.13,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-041",
+    "category": "INVOICE",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 150,
+    "blur_score": 0.35,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1041",
+      "invoice_date": "2026-01-14",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8041",
+      "subtotal": 3356.13,
+      "tax_amount": 335.61,
+      "total_amount": 3691.74,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-042",
+    "category": "INVOICE",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 150,
+    "blur_score": 0.35,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1042",
+      "invoice_date": "2026-01-15",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8042",
+      "subtotal": 4322.55,
+      "tax_amount": 432.26,
+      "total_amount": 4754.81,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-043",
+    "category": "INVOICE",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 150,
+    "blur_score": 0.35,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1043",
+      "invoice_date": "2026-01-16",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8043",
+      "subtotal": 3224.72,
+      "tax_amount": 322.47,
+      "total_amount": 3547.19,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-044",
+    "category": "INVOICE",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 150,
+    "blur_score": 0.35,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1044",
+      "invoice_date": "2026-01-17",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8044",
+      "subtotal": 3653.78,
+      "tax_amount": 365.38,
+      "total_amount": 4019.16,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-045",
+    "category": "INVOICE",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 150,
+    "blur_score": 0.35,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1045",
+      "invoice_date": "2026-01-18",
+      "vendor_name": "Starlight Media",
+      "tax_id": "VAT-8045",
+      "subtotal": 2410.76,
+      "tax_amount": 241.08,
+      "total_amount": 2651.84,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-046",
+    "category": "INVOICE",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 90,
+    "blur_score": 0.78,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1046",
+      "invoice_date": "2026-01-19",
+      "vendor_name": "TechSupplies Inc",
+      "tax_id": "VAT-8046",
+      "subtotal": 2222.85,
+      "tax_amount": 222.28,
+      "total_amount": 2445.13,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-047",
+    "category": "INVOICE",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 90,
+    "blur_score": 0.78,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1047",
+      "invoice_date": "2026-01-20",
+      "vendor_name": "Nordic Data Systems",
+      "tax_id": "VAT-8047",
+      "subtotal": 2445.97,
+      "tax_amount": 244.6,
+      "total_amount": 2690.57,
+      "line_items_count": 4
+    }
+  },
+  {
+    "doc_id": "DOC-048",
+    "category": "INVOICE",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 90,
+    "blur_score": 0.78,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1048",
+      "invoice_date": "2026-01-21",
+      "vendor_name": "Acme Cloud Corp",
+      "tax_id": "VAT-8048",
+      "subtotal": 604.7,
+      "tax_amount": 60.47,
+      "total_amount": 665.17,
+      "line_items_count": 1
+    }
+  },
+  {
+    "doc_id": "DOC-049",
+    "category": "INVOICE",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 90,
+    "blur_score": 0.78,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1049",
+      "invoice_date": "2026-01-22",
+      "vendor_name": "Global Logistics AG",
+      "tax_id": "VAT-8049",
+      "subtotal": 4330.5,
+      "tax_amount": 433.05,
+      "total_amount": 4763.55,
+      "line_items_count": 2
+    }
+  },
+  {
+    "doc_id": "DOC-050",
+    "category": "INVOICE",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 90,
+    "blur_score": 0.78,
+    "ground_truth": {
+      "invoice_number": "INV-2026-1050",
+      "invoice_date": "2026-01-23",
+      "vendor_name": "Apex Healthcare LLC",
+      "tax_id": "VAT-8050",
+      "subtotal": 1156.08,
+      "tax_amount": 115.61,
+      "total_amount": 1271.69,
+      "line_items_count": 3
+    }
+  },
+  {
+    "doc_id": "DOC-051",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9951",
+      "patient_name": "Patient_51",
+      "policy_number": "POL-880051",
+      "incident_date": "2025-11-24",
+      "diagnosis_code": "M11.1",
+      "claimed_amount": 1592.05,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-052",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9952",
+      "patient_name": "Patient_52",
+      "policy_number": "POL-880052",
+      "incident_date": "2025-11-25",
+      "diagnosis_code": "M12.1",
+      "claimed_amount": 1154.43,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-053",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9953",
+      "patient_name": "Patient_53",
+      "policy_number": "POL-880053",
+      "incident_date": "2025-11-26",
+      "diagnosis_code": "M13.1",
+      "claimed_amount": 11196.47,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-054",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9954",
+      "patient_name": "Patient_54",
+      "policy_number": "POL-880054",
+      "incident_date": "2025-11-27",
+      "diagnosis_code": "M14.1",
+      "claimed_amount": 405.99,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-055",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9955",
+      "patient_name": "Patient_55",
+      "policy_number": "POL-880055",
+      "incident_date": "2025-11-28",
+      "diagnosis_code": "M15.1",
+      "claimed_amount": 13547.47,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-056",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9956",
+      "patient_name": "Patient_56",
+      "policy_number": "POL-880056",
+      "incident_date": "2025-11-01",
+      "diagnosis_code": "M16.1",
+      "claimed_amount": 14199.54,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-057",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9957",
+      "patient_name": "Patient_57",
+      "policy_number": "POL-880057",
+      "incident_date": "2025-11-02",
+      "diagnosis_code": "M17.1",
+      "claimed_amount": 14654.06,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-058",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9958",
+      "patient_name": "Patient_58",
+      "policy_number": "POL-880058",
+      "incident_date": "2025-11-03",
+      "diagnosis_code": "M18.1",
+      "claimed_amount": 7685.15,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-059",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9959",
+      "patient_name": "Patient_59",
+      "policy_number": "POL-880059",
+      "incident_date": "2025-11-04",
+      "diagnosis_code": "M19.1",
+      "claimed_amount": 7094.27,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-060",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9960",
+      "patient_name": "Patient_60",
+      "policy_number": "POL-880060",
+      "incident_date": "2025-11-05",
+      "diagnosis_code": "M20.1",
+      "claimed_amount": 13705.69,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-061",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9961",
+      "patient_name": "Patient_61",
+      "policy_number": "POL-880061",
+      "incident_date": "2025-11-06",
+      "diagnosis_code": "M21.1",
+      "claimed_amount": 2860.09,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-062",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9962",
+      "patient_name": "Patient_62",
+      "policy_number": "POL-880062",
+      "incident_date": "2025-11-07",
+      "diagnosis_code": "M22.1",
+      "claimed_amount": 5250.13,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-063",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9963",
+      "patient_name": "Patient_63",
+      "policy_number": "POL-880063",
+      "incident_date": "2025-11-08",
+      "diagnosis_code": "M23.1",
+      "claimed_amount": 932.79,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-064",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9964",
+      "patient_name": "Patient_64",
+      "policy_number": "POL-880064",
+      "incident_date": "2025-11-09",
+      "diagnosis_code": "M24.1",
+      "claimed_amount": 4403.41,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-065",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.04,
+    "ground_truth": {
+      "claim_id": "CLM-9965",
+      "patient_name": "Patient_65",
+      "policy_number": "POL-880065",
+      "incident_date": "2025-11-10",
+      "diagnosis_code": "M25.1",
+      "claimed_amount": 1056.91,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-066",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9966",
+      "patient_name": "Patient_66",
+      "policy_number": "POL-880066",
+      "incident_date": "2025-11-11",
+      "diagnosis_code": "M26.1",
+      "claimed_amount": 4083.3,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-067",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9967",
+      "patient_name": "Patient_67",
+      "policy_number": "POL-880067",
+      "incident_date": "2025-11-12",
+      "diagnosis_code": "M27.1",
+      "claimed_amount": 6769.74,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-068",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9968",
+      "patient_name": "Patient_68",
+      "policy_number": "POL-880068",
+      "incident_date": "2025-11-13",
+      "diagnosis_code": "M28.1",
+      "claimed_amount": 7296.96,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-069",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9969",
+      "patient_name": "Patient_69",
+      "policy_number": "POL-880069",
+      "incident_date": "2025-11-14",
+      "diagnosis_code": "M29.1",
+      "claimed_amount": 3431.97,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-070",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9970",
+      "patient_name": "Patient_70",
+      "policy_number": "POL-880070",
+      "incident_date": "2025-11-15",
+      "diagnosis_code": "M30.1",
+      "claimed_amount": 10905.5,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-071",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9971",
+      "patient_name": "Patient_71",
+      "policy_number": "POL-880071",
+      "incident_date": "2025-11-16",
+      "diagnosis_code": "M31.1",
+      "claimed_amount": 1450.33,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-072",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9972",
+      "patient_name": "Patient_72",
+      "policy_number": "POL-880072",
+      "incident_date": "2025-11-17",
+      "diagnosis_code": "M32.1",
+      "claimed_amount": 5111.59,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-073",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9973",
+      "patient_name": "Patient_73",
+      "policy_number": "POL-880073",
+      "incident_date": "2025-11-18",
+      "diagnosis_code": "M33.1",
+      "claimed_amount": 6149.41,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-074",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9974",
+      "patient_name": "Patient_74",
+      "policy_number": "POL-880074",
+      "incident_date": "2025-11-19",
+      "diagnosis_code": "M34.1",
+      "claimed_amount": 12829.38,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-075",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "HANDWRITTEN_ANNOTATIONS",
+    "dpi": 160,
+    "blur_score": 0.3,
+    "ground_truth": {
+      "claim_id": "CLM-9975",
+      "patient_name": "Patient_75",
+      "policy_number": "POL-880075",
+      "incident_date": "2025-11-20",
+      "diagnosis_code": "M35.1",
+      "claimed_amount": 3103.14,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-076",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 85,
+    "blur_score": 0.82,
+    "ground_truth": {
+      "claim_id": "CLM-9976",
+      "patient_name": "Patient_76",
+      "policy_number": "POL-880076",
+      "incident_date": "2025-11-21",
+      "diagnosis_code": "M36.1",
+      "claimed_amount": 6900.38,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-077",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 85,
+    "blur_score": 0.82,
+    "ground_truth": {
+      "claim_id": "CLM-9977",
+      "patient_name": "Patient_77",
+      "policy_number": "POL-880077",
+      "incident_date": "2025-11-22",
+      "diagnosis_code": "M37.1",
+      "claimed_amount": 8831.77,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-078",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 85,
+    "blur_score": 0.82,
+    "ground_truth": {
+      "claim_id": "CLM-9978",
+      "patient_name": "Patient_78",
+      "policy_number": "POL-880078",
+      "incident_date": "2025-11-23",
+      "diagnosis_code": "M38.1",
+      "claimed_amount": 13552.91,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-079",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 85,
+    "blur_score": 0.82,
+    "ground_truth": {
+      "claim_id": "CLM-9979",
+      "patient_name": "Patient_79",
+      "policy_number": "POL-880079",
+      "incident_date": "2025-11-24",
+      "diagnosis_code": "M39.1",
+      "claimed_amount": 2110.53,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-080",
+    "category": "INSURANCE_CLAIM",
+    "degradation_profile": "CORRUPTED_LOW_RES",
+    "dpi": 85,
+    "blur_score": 0.82,
+    "ground_truth": {
+      "claim_id": "CLM-9980",
+      "patient_name": "Patient_80",
+      "policy_number": "POL-880080",
+      "incident_date": "2025-11-25",
+      "diagnosis_code": "M40.1",
+      "claimed_amount": 12264.9,
+      "provider_name": "Metro General Hospital"
+    }
+  },
+  {
+    "doc_id": "DOC-081",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800081",
+      "full_name": "Citizen_81 Surname",
+      "date_of_birth": "1981-05-14",
+      "expiry_date": "2031-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-082",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800082",
+      "full_name": "Citizen_82 Surname",
+      "date_of_birth": "1982-05-14",
+      "expiry_date": "2032-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-083",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800083",
+      "full_name": "Citizen_83 Surname",
+      "date_of_birth": "1983-05-14",
+      "expiry_date": "2033-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-084",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800084",
+      "full_name": "Citizen_84 Surname",
+      "date_of_birth": "1984-05-14",
+      "expiry_date": "2034-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-085",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800085",
+      "full_name": "Citizen_85 Surname",
+      "date_of_birth": "1985-05-14",
+      "expiry_date": "2035-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-086",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800086",
+      "full_name": "Citizen_86 Surname",
+      "date_of_birth": "1986-05-14",
+      "expiry_date": "2036-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-087",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800087",
+      "full_name": "Citizen_87 Surname",
+      "date_of_birth": "1987-05-14",
+      "expiry_date": "2037-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-088",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800088",
+      "full_name": "Citizen_88 Surname",
+      "date_of_birth": "1988-05-14",
+      "expiry_date": "2038-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-089",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800089",
+      "full_name": "Citizen_89 Surname",
+      "date_of_birth": "1989-05-14",
+      "expiry_date": "2039-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-090",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800090",
+      "full_name": "Citizen_90 Surname",
+      "date_of_birth": "1980-05-14",
+      "expiry_date": "2030-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-091",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800091",
+      "full_name": "Citizen_91 Surname",
+      "date_of_birth": "1981-05-14",
+      "expiry_date": "2031-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-092",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "CLEAN_DIGITAL",
+    "dpi": 300,
+    "blur_score": 0.05,
+    "ground_truth": {
+      "document_id": "P8800092",
+      "full_name": "Citizen_92 Surname",
+      "date_of_birth": "1982-05-14",
+      "expiry_date": "2032-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-093",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800093",
+      "full_name": "Citizen_93 Surname",
+      "date_of_birth": "1983-05-14",
+      "expiry_date": "2033-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-094",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800094",
+      "full_name": "Citizen_94 Surname",
+      "date_of_birth": "1984-05-14",
+      "expiry_date": "2034-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-095",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800095",
+      "full_name": "Citizen_95 Surname",
+      "date_of_birth": "1985-05-14",
+      "expiry_date": "2035-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-096",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800096",
+      "full_name": "Citizen_96 Surname",
+      "date_of_birth": "1986-05-14",
+      "expiry_date": "2036-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-097",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800097",
+      "full_name": "Citizen_97 Surname",
+      "date_of_birth": "1987-05-14",
+      "expiry_date": "2037-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-098",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800098",
+      "full_name": "Citizen_98 Surname",
+      "date_of_birth": "1988-05-14",
+      "expiry_date": "2038-05-14",
+      "country_code": "USA"
+    }
+  },
+  {
+    "doc_id": "DOC-099",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800099",
+      "full_name": "Citizen_99 Surname",
+      "date_of_birth": "1989-05-14",
+      "expiry_date": "2039-05-14",
+      "country_code": "GBR"
+    }
+  },
+  {
+    "doc_id": "DOC-100",
+    "category": "GOVERNMENT_ID",
+    "degradation_profile": "SKEWED_MOBILE_SCAN",
+    "dpi": 170,
+    "blur_score": 0.25,
+    "ground_truth": {
+      "document_id": "P8800100",
+      "full_name": "Citizen_100 Surname",
+      "date_of_birth": "1980-05-14",
+      "expiry_date": "2030-05-14",
+      "country_code": "USA"
+    }
+  }
+]
